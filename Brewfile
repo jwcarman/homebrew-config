@@ -30,3 +30,5 @@ cask "temurin@19"
 cask "temurin@21"
 cask "graalvm-community-jdk17"
 cask "graalvm-community-jdk21"
+cask "graalvm-community-jdk23"
+
